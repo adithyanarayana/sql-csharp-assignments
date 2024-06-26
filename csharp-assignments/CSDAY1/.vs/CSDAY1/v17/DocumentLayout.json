@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anond\\OneDrive\\Documents\\Github\\sql-csharp-assignments\\csharp-assignments\\CSDAY1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3AB40F-C2A1-47D0-AADF-EBB4A4E4DA47}|Assignment1\\Assignment1.csproj|c:\\users\\anond\\onedrive\\documents\\github\\sql-csharp-assignments\\csharp-assignments\\csday1\\assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3AB40F-C2A1-47D0-AADF-EBB4A4E4DA47}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3AB40F-C2A1-47D0-AADF-EBB4A4E4DA47}|Assignment1\\Assignment1.csproj|c:\\users\\anond\\onedrive\\documents\\github\\sql-csharp-assignments\\csharp-assignments\\csday1\\assignment1\\assign1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1D3AB40F-C2A1-47D0-AADF-EBB4A4E4DA47}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\assign1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3AB40F-C2A1-47D0-AADF-EBB4A4E4DA47}|Assignment1\\Assignment1.csproj|c:\\users\\anond\\onedrive\\documents\\github\\sql-csharp-assignments\\csharp-assignments\\csday1\\assignment1\\assignment1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D3AB40F-C2A1-47D0-AADF-EBB4A4E4DA47}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\assignment1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D203276C-072A-4661-B815-DAF0C16B6A6A}|Assignment2\\Assignment2.csproj|c:\\users\\anond\\onedrive\\documents\\github\\sql-csharp-assignments\\csharp-assignments\\csday1\\assignment2\\copyarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D203276C-072A-4661-B815-DAF0C16B6A6A}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\copyarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assign1.txt",
+              "DocumentMoniker": "C:\\Users\\anond\\OneDrive\\Documents\\Github\\sql-csharp-assignments\\csharp-assignments\\CSDAY1\\Assignment1\\Assign1.txt",
+              "RelativeDocumentMoniker": "Assignment1\\Assign1.txt",
+              "ToolTip": "C:\\Users\\anond\\OneDrive\\Documents\\Github\\sql-csharp-assignments\\csharp-assignments\\CSDAY1\\Assignment1\\Assign1.txt",
+              "RelativeToolTip": "Assignment1\\Assign1.txt",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-26T03:23:23.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assignment1",
+              "DocumentMoniker": "C:\\Users\\anond\\OneDrive\\Documents\\Github\\sql-csharp-assignments\\csharp-assignments\\CSDAY1\\Assignment1\\Assignment1.csproj",
+              "RelativeDocumentMoniker": "Assignment1\\Assignment1.csproj",
+              "ToolTip": "C:\\Users\\anond\\OneDrive\\Documents\\Github\\sql-csharp-assignments\\csharp-assignments\\CSDAY1\\Assignment1\\Assignment1.csproj",
+              "RelativeToolTip": "Assignment1\\Assignment1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T03:23:12.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CopyArray.cs",
+              "DocumentMoniker": "C:\\Users\\anond\\OneDrive\\Documents\\Github\\sql-csharp-assignments\\csharp-assignments\\CSDAY1\\Assignment2\\CopyArray.cs",
+              "RelativeDocumentMoniker": "Assignment2\\CopyArray.cs",
+              "ToolTip": "C:\\Users\\anond\\OneDrive\\Documents\\Github\\sql-csharp-assignments\\csharp-assignments\\CSDAY1\\Assignment2\\CopyArray.cs",
+              "RelativeToolTip": "Assignment2\\CopyArray.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:49:22.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anond\\OneDrive\\Documents\\Github\\sql-csharp-assignments\\csharp-assignments\\CSDAY1\\Assignment1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Program.cs",
+              "ToolTip": "C:\\Users\\anond\\OneDrive\\Documents\\Github\\sql-csharp-assignments\\csharp-assignments\\CSDAY1\\Assignment1\\Program.cs",
+              "RelativeToolTip": "Assignment1\\Program.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAIwMEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:06:50.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

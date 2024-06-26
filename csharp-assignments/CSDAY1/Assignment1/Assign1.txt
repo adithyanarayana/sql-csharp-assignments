@@ -1,0 +1,103 @@
+ASSIGNMENT 01
+
+What type would you choose for the following “numbers”?
+1.
+A person’s telephone number  —- String
+A person’s height —- Float
+A person’s age —--- Int 
+A person’s gender (Male, Female, Prefer Not To Answer) —- Enum or string
+A person’s salary —   Decimal 
+A book’s ISBN — long or String 
+A book’s price — Decimal 
+A book’s shipping weight — double or float 
+A country’s population — Long/ ulong
+The number of stars in the universe -  long or Big integer
+The number of employees in each of the small or medium businesses in the
+United Kingdom (up to about 50,000 employees per business —--- int 
+2.
+Value Type- Directly contains their data and has its own copy of data and operation on one can not affect another 
+Value type are stored in stack memory 
+It will not be collected by garbage collector 
+It can be created  by struct or enum as well 
+It cannot accept NULL values 
+Reference Type - It stores the references to their data AKA objects, two reference variables can reference the same object and operation on one can affect another
+Reference type are stored in heap memory 
+It will be collected by garbage collector 
+It can be created by class, interface, delegate or array
+Ref type can accept NULL values.
+
+Boxing and Unboxing - It is conversion of one type to another type. 
+Boxing is conversion of Value type to reference type 
+Unboxing is conversion of reference type to value type 
+
+3.
+Managed resource 
+Resources managed by .Net Runtime. Managed resources are automatically handled by the garbage collector 
+EX: Objects, Instances, memory by CLR 
+
+	Unmanaged Resource 
+Resources not managed by CLR. Unmanaged resources are not handled by Garbage collector and must be cleaned up by developer 
+EX: Files, Database connection, Graphics etc
+Use “Dispose” method to release these resources. 
+4.
+Garbage Collector in .net – It manages the allocation and release of memory for an application. It works automatically. Developers don’t need to write code on memory management tasks. 
+Reclaims objects which are no longer used and clears their memory and provides memory safety by making sure object can’t use for itself, the memory of another object
+
+
+Controlling Flow and Converting Types: 
+
+1. What happens when you divide an int variable by 0?
+Runtime exception, due to undefined value 
+2. What happens when you divide a double variable by 0?
+Program runs and depends on double value, if positive double output is positive infinity and if double value is negative then output shows negative infinity 
+3. What happens when you overflow an int variable, that is, set it to a value beyond its
+Range?
+Overflow can cause the value to wrap and become negative
+4. What is the difference between x = y++; and x = ++y;?
+Post increment, first assigns value then increments the value
+Pre-increment operator, first increments the value then assigns the value 
+5. What is the difference between break, continue, and return when used inside a loop
+Statement?
+Break: It exits the loop and continue the rest of the program
+Continue: it skips the current loop and moves to next iteration 
+Return: it exits the loop and method ( if inside method ) return value if provided
+
+6. What are the three parts of a for statement and which of them are required?
+Initialization, condition and iteration 
+Initialization - initialized value 
+Condition - Defines the condition and loops runs until condition is met 
+Iteration - variable is incremented/ decremented according to the condition 
+All 3 parts are optional to run for loop 
+
+7. What is the difference between the = and == operators?
+“=” is the assignment operator, assign right value to the left variable or expression 
+“==” is comparison operator, checks if both sides of value is equal or not, gives boolean value
+8. Does the following statement compile? for ( ; true; ) ;
+The statement compiles and runs indefinitely until console is closed
+9. What does the underscore _ represent in a switch expression?
+The underscore “_” in switch expression represents the default case similar to default keyword 
+10. What interface must an object implement to be enumerated over by using the foreach
+Statement?
+Object must implement ‘IEnumerable’ to be enumerated over using the ‘Foreach’ Statement.
+
+
+
+Loops and Operators:
+
+Q) What will happen if this code executes?
+int max = 500;
+for (byte i = 0; i < max; i++)
+{
+WriteLine(i);
+}
+Create a console application and enter the preceding code. Run the console application
+and view the output. What happens?
+What code could you add (don’t change any of the preceding code) to warn us about the
+problem?
+– The loop will run indefinitely because “i” will never reach the i<max to be false as byte overflows after reaching its max of 255
+– We can add check logic before loop like if(max > byte.maxvalue) 
+
+
+
+
+

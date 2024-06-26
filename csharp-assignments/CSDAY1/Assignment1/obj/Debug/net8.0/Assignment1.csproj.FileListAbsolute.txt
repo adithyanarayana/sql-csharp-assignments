@@ -1,0 +1,17 @@
+C:\Users\anond\OneDrive\Documents\Github\sql-csharp-assignments\csharp-assignments\CSDAY1\Assignment1\bin\Debug\net8.0\Assignment1.exe
+C:\Users\anond\OneDrive\Documents\Github\sql-csharp-assignments\csharp-assignments\CSDAY1\Assignment1\bin\Debug\net8.0\Assignment1.deps.json
+C:\Users\anond\OneDrive\Documents\Github\sql-csharp-assignments\csharp-assignments\CSDAY1\Assignment1\bin\Debug\net8.0\Assignment1.runtimeconfig.json
+C:\Users\anond\OneDrive\Documents\Github\sql-csharp-assignments\csharp-assignments\CSDAY1\Assignment1\bin\Debug\net8.0\Assignment1.dll
+C:\Users\anond\OneDrive\Documents\Github\sql-csharp-assignments\csharp-assignments\CSDAY1\Assignment1\bin\Debug\net8.0\Assignment1.pdb
+C:\Users\anond\OneDrive\Documents\Github\sql-csharp-assignments\csharp-assignments\CSDAY1\Assignment1\obj\Debug\net8.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anond\OneDrive\Documents\Github\sql-csharp-assignments\csharp-assignments\CSDAY1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\anond\OneDrive\Documents\Github\sql-csharp-assignments\csharp-assignments\CSDAY1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfo.cs
+C:\Users\anond\OneDrive\Documents\Github\sql-csharp-assignments\csharp-assignments\CSDAY1\Assignment1\obj\Debug\net8.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\anond\OneDrive\Documents\Github\sql-csharp-assignments\csharp-assignments\CSDAY1\Assignment1\obj\Debug\net8.0\Assignment1.sourcelink.json
+C:\Users\anond\OneDrive\Documents\Github\sql-csharp-assignments\csharp-assignments\CSDAY1\Assignment1\obj\Debug\net8.0\Assignment1.dll
+C:\Users\anond\OneDrive\Documents\Github\sql-csharp-assignments\csharp-assignments\CSDAY1\Assignment1\obj\Debug\net8.0\refint\Assignment1.dll
+C:\Users\anond\OneDrive\Documents\Github\sql-csharp-assignments\csharp-assignments\CSDAY1\Assignment1\obj\Debug\net8.0\Assignment1.pdb
+C:\Users\anond\OneDrive\Documents\Github\sql-csharp-assignments\csharp-assignments\CSDAY1\Assignment1\obj\Debug\net8.0\Assignment1.genruntimeconfig.cache
+C:\Users\anond\OneDrive\Documents\Github\sql-csharp-assignments\csharp-assignments\CSDAY1\Assignment1\obj\Debug\net8.0\ref\Assignment1.dll
+C:\Users\anond\OneDrive\Documents\Github\sql-csharp-assignments\csharp-assignments\CSDAY1\Assignment1\obj\Debug\net8.0\Assignment1.Properties.Resources.resources
+C:\Users\anond\OneDrive\Documents\Github\sql-csharp-assignments\csharp-assignments\CSDAY1\Assignment1\obj\Debug\net8.0\Assignment1.csproj.GenerateResource.cache
