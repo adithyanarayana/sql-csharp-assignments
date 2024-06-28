@@ -1,0 +1,75 @@
+ASSIGNMENT 3
+Test your knowledge
+1. What are the six combinations of access modifier keywords and what do they do?
+Public: Accessible from any other code anywhere 
+Private: Accessible only with the body of class or strict which it is declared
+Protected: Accessible within its own class and its derived classes 
+Internal: accessible only within the same assembly 
+Protected Internal : accessible within its own current assembly or from derived classes 
+Private Protected : accessible within its containing class or from derived classes in same assembly.
+
+2.What is the difference between the static, const, and readonly keywords when applied to
+a type member?
+Static: the members declared only belong to the type itself rather than object. 
+Members are shared among all instances 
+Initialized only once, it exists for the lifetime 
+Can be assessed directly using type name without creating an instance 
+Const: It is used to declare Constant local variables. 
+It cannot be modified after it is declared. Value remains constant for the lifetime of program
+Readonly: used in declaration or in constructor and cannot be modified afterwards 
+
+3. What does a constructor do?
+It is a special method that has same name as the class name and does not have any return type; not even void 
+Used to create an object of the class and initialize the class members 
+
+4. Why is the partial keyword useful?
+Partial keywords allow splitting of  the definition of class, struct or interface across multiple fields. It helps with readability and also helps with maintainability where different files can handle specific aspect or functionality of the class.
+
+5. What is a tuple?
+Tuple is a data structure which is used to store a collection of values( different types), each value is called element. It can group together related pieces of data without having to create a class or struct.
+It has a fixed size and is Immutable.
+6. What does the C# record keyword do?
+It is used to define a reference type which provides built-in functionality for encapsulating data.
+7. What does overloading and overriding mean?
+Both are used to achieve polymorphism.
+Overloading: it allows a class to have multiple methods with the same name but different parameters. It is a compile time polymorphism.  
+Overriding: Overriding allows derived classes to provide specific implementation of methods defined in base class. It is a run-time polymorphism. 
+Override method uses virtual keyword in base class and override keyword in derived class
+
+8. What is the difference between a field and a property?
+Fields: these are variables declared directly in a class or struct. They show the actual data storage of the class
+Properties: these are members with mechanism to read, write or compute the values of private fields. Help with encapsulation and set logic for getting and setting values 
+
+9. How do you make a method parameter optional?
+It can be made optional by providing a default value in the method signature.
+
+10. What is an interface and how is it different from abstract class?
+Interface is collection of methods which are abstract by default and public, will be implemented by the derived class
+Abstract class will provide base class to its subclasses and interface will define common functionalities and behaviors which can be implemented by any class
+– One class can only inherit from one abstract class but one class can implement multiple interfaces
+– Methods in abstract class can be abstract method or non-abstract method but methods in an interface is by default abstract and public
+
+11. What accessibility level are members of an interface?
+Members of an interface are by default public 
+
+12. True/False. Polymorphism allows derived classes to provide different implementations
+of the same method. — TRUE
+
+13. True/False. The override keyword is used to indicate that a method in a derived class is
+providing its own implementation of a method. – TRUE 
+
+14. True/False. The new keyword is used to indicate that a method in a derived class is
+providing its own implementation of a method. — FALSE
+
+15. True/False. Abstract methods can be used in a normal (non-abstract) class. - FALSE
+16.True/False. Normal (non-abstract) methods can be used in an abstract class. – TRUE 
+17. True/False.Derived classes can override methods that were virtual in the base class.- TRUE
+ 18. True/False. Derived classes can override methods that were abstract in the base class. – TRUE
+19. True/False. In a derived class, you can override a method that was neither virtual non abstract in the base class. – FALSE
+20. True/False. A class that implements an interface does not have to provide an
+implementation for all of the members of the interface. –TRUE 
+21. True/False. A class that implements an interface is allowed to have other members that
+aren’t defined in the interface. –  TRUE
+22. True/False. A class can have more than one base class. –  FALSE
+23. True/False. A class can implement more than one interface. –  TRUE 
+
